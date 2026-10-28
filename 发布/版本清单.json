@@ -1,0 +1,48 @@
+{
+  "name": "月下UNO",
+  "latest": "0.5.0",
+  "versions": [
+    {
+      "version": "0.5.0",
+      "apk": "安装包/最新版/月下UNO-v0.5.0.apk",
+      "sha256": "be5c3fee6c6779c91da8a9e9873e39308fa1e6fdc4107d2a41f2bb5d6ff8c85f",
+      "latest": true
+    },
+    {
+      "version": "0.4.0",
+      "apk": "安装包/历史版本/月下UNO-v0.4.0.apk",
+      "sha256": "27b0518f7e742264417ea05c74d144e9099fb3e9f9ee766d5bf2496a8997bd21",
+      "latest": false
+    },
+    {
+      "version": "0.3.1",
+      "apk": "安装包/历史版本/月下UNO-v0.3.1.apk",
+      "sha256": "ea1daa94bd24989229cd259d5bfeffc74bbecb1166118037984f9c0923bf33d0",
+      "latest": false
+    },
+    {
+      "version": "0.3.0",
+      "apk": "安装包/历史版本/月下UNO-v0.3.apk",
+      "sha256": "e35b2579432f870eab8c29dbc4d633e2ac37e75b1065f9df01cb680ae065ec50",
+      "latest": false
+    },
+    {
+      "version": "0.2.1",
+      "apk": "安装包/历史版本/月下UNO-v0.2.1.apk",
+      "sha256": "4fc36eed6fa1483aae6c6fcffe4a8cbbc51bdb3306af3ddd7b8f4c1d148bd184",
+      "latest": false
+    },
+    {
+      "version": "0.2.0",
+      "apk": "安装包/历史版本/月下UNO-v0.2.apk",
+      "sha256": "2bf3a127fe9bd8e68c9f6cf15ca22f1c1a921eaee711f564452454514bd0d458",
+      "latest": false
+    },
+    {
+      "version": "0.1.0",
+      "apk": "安装包/历史版本/月下UNO-v0.1.apk",
+      "sha256": "d2ce7c08a6583a40d3ac5dbe82bd1dd77b2f1548fd981d593d824cfb82f0c448",
+      "latest": false
+    }
+  ]
+}

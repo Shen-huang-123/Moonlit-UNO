@@ -1,0 +1,8 @@
+**/.gradle/
+**/build/
+**/build-*/
+**/local.properties
+**/验证/classes/
+**/验证/avd/
+**/__pycache__/
+*.log
